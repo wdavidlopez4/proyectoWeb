@@ -5,3 +5,11 @@
     height: auto;
 }
 
+.letra
+{
+	text-align: center;
+	margin: 20px 0px;
+    color: #eee;
+    font-size: 18px;
+    line-height: 30px;
+}
